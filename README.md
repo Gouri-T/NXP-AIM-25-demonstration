@@ -1,8 +1,6 @@
 # 🏆 NXP AIM 2025 Warehouse Challenge
-
-> **Team:** IntelliCruise  
-> **Achievement:** 🏆 *First Prize – NXP AIM 2025 Autonomous Robotics Challenge*
-> 
+> ### **Team:** IntelliCruise  
+> ### **Achievement:** 🏆 *First Prize – NXP AIM 2025 Autonomous Robotics Challenge*
 
 # Repository Structure
 
