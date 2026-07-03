@@ -133,4 +133,4 @@ The solution was developed and tested using:
 
 <table> <tr> <td align="center"> <b>Gazebo Simulation</b><br> <img src="assets/images/gazebo.png" width="450"> </td>
 
-<td align="center"> <b>Foxglove Visualization</b><br> <img src="assets/images/foxglove.png" width="450"> </td> </tr> </table>
+<td align="center"> <b>Foxglove Visualization</b><br> <img src="assets/images/FoxGlove.png" width="450"> </td> </tr> </table>
